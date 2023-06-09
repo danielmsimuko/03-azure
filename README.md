@@ -1,4 +1,4 @@
-## 03-Azure
+## 07 - Azure
 
 ARM templates, Deployments and Study Notes 
 
